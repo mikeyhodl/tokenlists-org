@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/17d16a17-d0af-40ff-bb6d-0b338834c00e/deploy-status)](https://app.netlify.com/sites/thirsty-swirles-a60969/deploys)
+
 ## Token lists website.
 
 ![Token lists](https://github.com/Uniswap/tokenlists-org/blob/master/public/card.png?raw=true)
